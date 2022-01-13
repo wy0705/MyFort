@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/wy_cuda_test.dir/main.cpp.o -o wy_cuda_test 

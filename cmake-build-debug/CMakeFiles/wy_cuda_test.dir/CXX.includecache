@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wy/CLionProjects/wy_cuda_test/main.cpp
+master.h
+/home/wy/CLionProjects/wy_cuda_test/master.h
+
+/home/wy/CLionProjects/wy_cuda_test/master.h
+iostream
+-
+cstring
+-
+map
+-
+string
+-
+hash_map
+-
+sys/types.h
+-
+sys/stat.h
+-
+malloc.h
+-
+algorithm
+-
+cstdlib
+-
+
